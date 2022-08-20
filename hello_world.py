@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 print('Hello World!')
 =======
 print("Hello world!")
@@ -7,3 +8,6 @@ print("Hello world!")
 =======
 print("Hello once again")
 >>>>>>> intermediate/feature/add-logging
+=======
+print('Hello world!')
+>>>>>>> 3e266f78da66933e5fddfbbc8b78bb50a693d527
